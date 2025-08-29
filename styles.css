@@ -1,0 +1,19 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color:#0000ff;
+    margin: 0;
+    padding: 0;
+    background-image: url('imagens/plano-de-fundo.jpeg');
+    background-repeat: repeat; /* Opcional */
+    background-attachment: fixed; /* Opcional */
+    background-size: cover; /* Opcional */
+}
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 8px;
+    background-color:darkslategray;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
